@@ -1,0 +1,25 @@
+{
+	"storyName": "the savior",
+	"hideFreeplay": false,
+	"weekBackground": "tv",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"reset",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Grace",
+			"savior",
+			[
+				100,
+				100,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": ""
+}

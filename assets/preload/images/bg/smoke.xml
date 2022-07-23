@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="smoke.png">
+<SubTexture name="smoke entrance0000" x="558" y="799" width="344" height="518" frameX="-136" frameY="-786" frameWidth="574" frameHeight="1315" />
+<SubTexture name="smoke entrance0001" x="0" y="1878" width="474" height="460" frameX="-71" frameY="-167" frameWidth="574" frameHeight="1315" />
+<SubTexture name="smoke entrance0002" x="474" y="1878" width="526" height="357" frameX="-20" frameY="-171" frameWidth="574" frameHeight="1315" />
+<SubTexture name="smoke entrance0003" x="1000" y="1878" width="526" height="357" frameX="-20" frameY="-184" frameWidth="574" frameHeight="1315" />
+<SubTexture name="smoke entrance0004" x="0" y="799" width="558" height="584" frameX="0" frameY="-13" frameWidth="574" frameHeight="1315" />
+<SubTexture name="smoke entrance0005" x="2041" y="466" width="395" height="445" frameX="-122" frameY="-497" frameWidth="574" frameHeight="1315" />
+<SubTexture name="smoke idle0000" x="439" y="1383" width="383" height="473" frameX="0" frameY="0" frameWidth="455" frameHeight="543" />
+<SubTexture name="smoke shoot0000" x="822" y="1383" width="579" height="466" frameX="-71" frameY="-203" frameWidth="1169" frameHeight="883" />
+<SubTexture name="smoke shoot0001" x="1401" y="1383" width="503" height="466" frameX="-73" frameY="-203" frameWidth="1169" frameHeight="883" />
+<SubTexture name="smoke shoot0002" x="652" y="0" width="953" height="633" frameX="-54" frameY="-132" frameWidth="1169" frameHeight="883" />
+<SubTexture name="smoke shoot0003" x="2041" y="0" width="398" height="466" frameX="-59" frameY="-203" frameWidth="1169" frameHeight="883" />
+<SubTexture name="smoke shoot 20000" x="902" y="799" width="394" height="495" frameX="-189" frameY="-91" frameWidth="687" frameHeight="810" />
+<SubTexture name="smoke shoot 20001" x="1605" y="0" width="436" height="495" frameX="-189" frameY="-91" frameWidth="687" frameHeight="810" />
+<SubTexture name="smoke shoot 20002" x="0" y="1383" width="439" height="495" frameX="-186" frameY="-91" frameWidth="687" frameHeight="810" />
+<SubTexture name="smoke shoot 20003" x="0" y="0" width="652" height="799" frameX="-6" frameY="-11" frameWidth="687" frameHeight="810" />
+<SubTexture name="smoke shoot 20004" x="1605" y="495" width="423" height="495" frameX="-220" frameY="-91" frameWidth="687" frameHeight="810" />
+</TextureAtlas>

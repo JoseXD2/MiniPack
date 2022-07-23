@@ -1,0 +1,31 @@
+{
+	"storyName": "can you help me favor",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "tv",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "grace",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"reset",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"think",
+			"markicons",
+			[
+				100,
+				100,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf death.png">
+<SubTexture name="BF BUNNY DEATH0000" x="927" y="1306" width="682" height="386" frameX="-19" frameY="-134" frameWidth="807" frameHeight="534" />
+<SubTexture name="BF BUNNY DEATH0001" x="443" y="1306" width="484" height="388" frameX="-230" frameY="-132" frameWidth="807" frameHeight="534" />
+<SubTexture name="BF BUNNY DEATH0002" x="0" y="439" width="440" height="434" frameX="-308" frameY="-86" frameWidth="807" frameHeight="534" />
+<SubTexture name="BF BUNNY DEATH0003" x="442" y="0" width="460" height="436" frameX="-324" frameY="-84" frameWidth="807" frameHeight="534" />
+<SubTexture name="BF BUNNY DEATH0004" x="440" y="439" width="445" height="433" frameX="-324" frameY="-87" frameWidth="807" frameHeight="534" />
+<SubTexture name="BF BUNNY DEATH0005" x="902" y="0" width="445" height="433" frameX="-324" frameY="-87" frameWidth="807" frameHeight="534" />
+<SubTexture name="BF BUNNY DEATH0006" x="0" y="0" width="442" height="439" frameX="-331" frameY="-87" frameWidth="807" frameHeight="534" />
+<SubTexture name="BF BUNNY DEATH0007" x="902" y="433" width="442" height="433" frameX="-331" frameY="-87" frameWidth="807" frameHeight="534" />
+<SubTexture name="BF BUNNY DEATH0008" x="0" y="873" width="441" height="433" frameX="-331" frameY="-87" frameWidth="807" frameHeight="534" />
+<SubTexture name="BF BUNNY DEATH enter0000" x="0" y="1306" width="443" height="431" frameX="-94" frameY="-20" frameWidth="550" frameHeight="464" />
+<SubTexture name="BF BUNNY DEATH loop0000" x="0" y="1306" width="443" height="431" frameX="0" frameY="0" frameWidth="550" frameHeight="464" />
+<SubTexture name="BF BUNNY DEATH loop0001" x="0" y="1306" width="443" height="431" frameX="0" frameY="0" frameWidth="550" frameHeight="464" />
+<SubTexture name="BF BUNNY DEATH loop0002" x="1347" y="0" width="442" height="432" frameX="0" frameY="0" frameWidth="550" frameHeight="464" />
+<SubTexture name="BF BUNNY DEATH loop0003" x="1347" y="0" width="442" height="432" frameX="0" frameY="0" frameWidth="550" frameHeight="464" />
+<SubTexture name="BF BUNNY DEATH loop0004" x="441" y="873" width="441" height="433" frameX="0" frameY="0" frameWidth="550" frameHeight="464" />
+<SubTexture name="BF BUNNY DEATH loop0005" x="441" y="873" width="441" height="433" frameX="0" frameY="0" frameWidth="550" frameHeight="464" />
+<SubTexture name="BF BUNNY DEATH loop0006" x="882" y="873" width="441" height="433" frameX="0" frameY="0" frameWidth="550" frameHeight="464" />
+<SubTexture name="BF BUNNY DEATH loop0007" x="882" y="873" width="441" height="433" frameX="0" frameY="0" frameWidth="550" frameHeight="464" />
+<SubTexture name="BF BUNNY DEATH loop0008" x="882" y="873" width="441" height="433" frameX="0" frameY="0" frameWidth="550" frameHeight="464" />
+<SubTexture name="BF BUNNY DEATH loop0009" x="882" y="873" width="441" height="433" frameX="0" frameY="0" frameWidth="550" frameHeight="464" />
+<SubTexture name="BF BUNNY DEATH loop0010" x="882" y="873" width="441" height="433" frameX="0" frameY="0" frameWidth="550" frameHeight="464" />
+<SubTexture name="BF BUNNY DEATH loop0011" x="882" y="873" width="441" height="433" frameX="0" frameY="0" frameWidth="550" frameHeight="464" />
+<SubTexture name="BF BUNNY DEATH loop0012" x="882" y="873" width="441" height="433" frameX="0" frameY="0" frameWidth="550" frameHeight="464" />
+<SubTexture name="BF BUNNY DEATH loop0013" x="882" y="873" width="441" height="433" frameX="0" frameY="0" frameWidth="550" frameHeight="464" />
+</TextureAtlas>

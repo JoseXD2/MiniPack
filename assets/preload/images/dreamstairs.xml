@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dreamstairs.png">
+<SubTexture name="stairs0000" x="0" y="0" width="648" height="365" frameX="0" frameY="0" frameWidth="648" frameHeight="365" />
+<SubTexture name="stairs0001" x="648" y="0" width="648" height="365" frameX="0" frameY="0" frameWidth="648" frameHeight="365" />
+<SubTexture name="stairs0002" x="0" y="365" width="648" height="364" frameX="-1" frameY="0" frameWidth="648" frameHeight="365" />
+</TextureAtlas>

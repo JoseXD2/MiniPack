@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="terios.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Terios BOX0000" x="120" y="0" width="324" height="252" frameX="-5" frameY="-10" frameWidth="515" frameHeight="277"/>
+	<SubTexture name="Terios BOX0001" x="444" y="0" width="324" height="252" frameX="-5" frameY="-10" frameWidth="515" frameHeight="277"/>
+	<SubTexture name="Terios BOX0002" x="768" y="0" width="500" height="277" frameX="-2" frameY="0" frameWidth="515" frameHeight="277"/>
+	<SubTexture name="Terios BOX0006" x="1268" y="0" width="514" height="277" frameX="-1" frameY="0" frameWidth="515" frameHeight="277"/>
+	<SubTexture name="Terios BOX0007" x="1782" y="0" width="514" height="277" frameX="-1" frameY="0" frameWidth="515" frameHeight="277"/>
+	<SubTexture name="Terios BOX0008" x="2296" y="0" width="514" height="277" frameX="-1" frameY="0" frameWidth="515" frameHeight="277"/>
+	<SubTexture name="Terios BOX0012" x="2810" y="0" width="514" height="277" frameX="-1" frameY="0" frameWidth="515" frameHeight="277"/>
+	<SubTexture name="Terios BRUH0000" x="0" y="277" width="447" height="479"/>
+	<SubTexture name="Terios CHAOS0000" x="447" y="277" width="388" height="431" frameX="-123" frameY="-198" frameWidth="536" frameHeight="629"/>
+	<SubTexture name="Terios CHAOS0003" x="835" y="277" width="388" height="402" frameX="-123" frameY="-227" frameWidth="536" frameHeight="629"/>
+	<SubTexture name="Terios CHAOS0004" x="1223" y="277" width="388" height="402" frameX="-123" frameY="-227" frameWidth="536" frameHeight="629"/>
+	<SubTexture name="Terios CHAOS0005" x="1611" y="277" width="388" height="403" frameX="-123" frameY="-226" frameWidth="536" frameHeight="629"/>
+	<SubTexture name="Terios CHAOS0006" x="1999" y="277" width="388" height="403" frameX="-123" frameY="-226" frameWidth="536" frameHeight="629"/>
+	<SubTexture name="Terios CHAOS0008" x="2402" y="227" width="388" height="403" frameX="-123" frameY="-226" frameWidth="536" frameHeight="629"/>
+	<SubTexture name="Terios CHAOS0009" x="2790" y="227" width="388" height="402" frameX="-123" frameY="-227" frameWidth="536" frameHeight="629"/>
+	<SubTexture name="Terios CHAOS0010" x="3178" y="277" width="390" height="400" frameX="-120" frameY="-229" frameWidth="536" frameHeight="629"/>
+	<SubTexture name="Terios CHAOS0014" x="1999" y="677" width="356" height="505" frameX="-146" frameY="-122" frameWidth="536" frameHeight="629"/>
+	<SubTexture name="Terios CHAOS0015" x="835" y="679" width="413" height="576" frameX="-89" frameY="-51" frameWidth="536" frameHeight="629"/>
+	<SubTexture name="Terios DOWN 0000" x="2790" y="679" width="441" height="437" frameX="-1" frameY="0" frameWidth="442" frameHeight="438"/>
+	<SubTexture name="Terios DOWN 0003" x="0" y="1116" width="440" height="416" frameX="0" frameY="-22" frameWidth="442" frameHeight="438"/>
+	<SubTexture name="Terios DOWN CHAOS0000" x="1248" y="1116" width="525" height="409" frameX="-90" frameY="-15" frameWidth="615" frameHeight="424"/>
+	<SubTexture name="Terios DOWN CHAOS0001" x="2355" y="1116" width="552" height="409" frameX="-63" frameY="-15" frameWidth="615" frameHeight="424"/>
+	<SubTexture name="Terios DOWN CHAOS0002" x="2907" y="1116" width="543" height="416" frameX="-63" frameY="-8" frameWidth="615" frameHeight="424"/>
+	<SubTexture name="Terios DOWN CHAOS0003" x="0" y="1532" width="580" height="416" frameX="-26" frameY="-8" frameWidth="615" frameHeight="424"/>
+	<SubTexture name="Terios HA0000" x="580" y="1532" width="404" height="554"/>
+	<SubTexture name="Terios HA0003" x="984" y="1532" width="396" height="541" frameX="-7" frameY="-12" frameWidth="404" frameHeight="554"/>
+	<SubTexture name="Terios HA NORMAL0000" x="1380" y="1532" width="385" height="554"/>
+	<SubTexture name="Terios HA NORMAL0003" x="1765" y="1532" width="384" height="541" frameX="0" frameY="-12" frameWidth="385" frameHeight="554"/>
+	<SubTexture name="Terios IDLE0000" x="2149" y="1532" width="408" height="455" frameX="0" frameY="-11" frameWidth="414" frameHeight="467"/>
+	<SubTexture name="Terios IDLE0003" x="2557" y="1532" width="411" height="461" frameX="-2" frameY="-5" frameWidth="414" frameHeight="467"/>
+	<SubTexture name="Terios IDLE0004" x="2968" y="1532" width="412" height="466" frameX="-2" frameY="-1" frameWidth="414" frameHeight="467"/>
+	<SubTexture name="Terios IDLE0007" x="0" y="1998" width="410" height="467" frameX="-2" frameY="0" frameWidth="414" frameHeight="467"/>
+	<SubTexture name="Terios IDLE CHAOS0006" x="2149" y="1998" width="453" height="467" frameX="-1" frameY="0" frameWidth="456" frameHeight="467"/>
+	<SubTexture name="Terios IDLE CHAOS0009" x="2602" y="1998" width="453" height="467" frameX="-1" frameY="0" frameWidth="456" frameHeight="467"/>
+	<SubTexture name="Terios IDLE CHAOS0010" x="3055" y="1988" width="452" height="467" frameX="-1" frameY="0" frameWidth="456" frameHeight="467"/>
+	<SubTexture name="Terios IDLE CHAOS0013" x="0" y="2465" width="447" height="465" frameX="-2" frameY="-1" frameWidth="456" frameHeight="467"/>
+	<SubTexture name="Terios LEFT 0000" x="447" y="2465" width="433" height="444" frameX="0" frameY="-2" frameWidth="458" frameHeight="446"/>
+	<SubTexture name="Terios LEFT 0003" x="880" y="2465" width="444" height="446" frameX="-8" frameY="0" frameWidth="458" frameHeight="446"/>
+	<SubTexture name="Terios LEFT CHAOS0000" x="1324" y="2465" width="469" height="444" frameX="-33" frameY="-52" frameWidth="527" frameHeight="496"/>
+	<SubTexture name="Terios LEFT CHAOS0001" x="1793" y="2465" width="490" height="444" frameX="-12" frameY="-52" frameWidth="527" frameHeight="496"/>
+	<SubTexture name="Terios LEFT CHAOS0002" x="2283" y="2465" width="509" height="446" frameX="-12" frameY="-50" frameWidth="527" frameHeight="496"/>
+	<SubTexture name="Terios LEFT CHAOS0003" x="2792" y="2465" width="514" height="472" frameX="-7" frameY="-24" frameWidth="527" frameHeight="496"/>
+	<SubTexture name="Terios NOTI0000" x="0" y="2937" width="408" height="455" frameX="-1" frameY="-8" frameWidth="739" frameHeight="463"/>
+	<SubTexture name="Terios NOTI0003" x="408" y="2937" width="405" height="451" frameX="-1" frameY="-12" frameWidth="739" frameHeight="463"/>
+	<SubTexture name="Terios NOTI0004" x="813" y="2937" width="672" height="452" frameX="-1" frameY="-11" frameWidth="739" frameHeight="463"/>
+	<SubTexture name="Terios NOTI0007" x="1485" y="2937" width="733" height="462" frameX="0" frameY="-1" frameWidth="739" frameHeight="463"/>
+	<SubTexture name="Terios NOTI0008" x="2218" y="2937" width="739" height="463"/>
+	<SubTexture name="Terios RIGHT0000" x="2957" y="2937" width="444" height="474" frameX="-14" frameY="0" frameWidth="458" frameHeight="474"/>
+	<SubTexture name="Terios RIGHT0005" x="3568" y="0" width="432" height="472" frameX="0" frameY="-2" frameWidth="458" frameHeight="474"/>
+	<SubTexture name="Terios RIGHT CHAOS0000" x="3450" y="677" width="473" height="474" frameX="-49" frameY="-11" frameWidth="522" frameHeight="485"/>
+	<SubTexture name="Terios RIGHT CHAOS0001" x="3450" y="1151" width="488" height="474" frameX="-34" frameY="-11" frameWidth="522" frameHeight="485"/>
+	<SubTexture name="Terios RIGHT CHAOS0002" x="3507" y="1625" width="479" height="472" frameX="-34" frameY="-13" frameWidth="522" frameHeight="485"/>
+	<SubTexture name="Terios RIGHT CHAOS0003" x="3507" y="2097" width="487" height="472" frameX="-26" frameY="-13" frameWidth="522" frameHeight="485"/>
+	<SubTexture name="Terios SUCK0000" x="3401" y="2569" width="451" height="446" frameX="-5" frameY="-10" frameWidth="456" frameHeight="456"/>
+	<SubTexture name="Terios SUCK0004" x="3401" y="3015" width="445" height="444" frameX="0" frameY="-12" frameWidth="456" frameHeight="456"/>
+	<SubTexture name="Terios SUCK0005" x="0" y="3459" width="451" height="444" frameX="-2" frameY="-12" frameWidth="456" frameHeight="456"/>
+	<SubTexture name="Terios SUCK0006" x="451" y="3459" width="451" height="444" frameX="-2" frameY="-12" frameWidth="456" frameHeight="456"/>
+	<SubTexture name="Terios SUCK0008" x="902" y="3459" width="451" height="444" frameX="-2" frameY="-12" frameWidth="456" frameHeight="456"/>
+	<SubTexture name="Terios UP0000" x="1353" y="3459" width="383" height="538" frameX="0" frameY="0" frameWidth="386" frameHeight="538"/>
+	<SubTexture name="Terios UP0005" x="1736" y="3459" width="386" height="523" frameX="0" frameY="-15" frameWidth="386" frameHeight="538"/>
+	<SubTexture name="Terios UP CHAOS0000" x="2122" y="3459" width="436" height="541" frameX="-91" frameY="0" frameWidth="530" frameHeight="541"/>
+	<SubTexture name="Terios UP CHAOS0001" x="2558" y="3459" width="462" height="541" frameX="-65" frameY="0" frameWidth="530" frameHeight="541"/>
+	<SubTexture name="Terios UP CHAOS0002" x="3020" y="3459" width="463" height="525" frameX="-65" frameY="-16" frameWidth="530" frameHeight="541"/>
+	<SubTexture name="Terios UP CHAOS0003" x="3483" y="3459" width="499" height="525" frameX="-29" frameY="-16" frameWidth="530" frameHeight="541"/>
+</TextureAtlas>

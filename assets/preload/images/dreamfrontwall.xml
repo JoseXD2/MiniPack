@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dreamfrontwall.png">
+<SubTexture name="frontwall0000" x="0" y="0" width="135" height="387" frameX="0" frameY="0" frameWidth="135" frameHeight="387" />
+<SubTexture name="frontwall0001" x="135" y="0" width="135" height="387" frameX="0" frameY="0" frameWidth="135" frameHeight="387" />
+<SubTexture name="frontwall0002" x="270" y="0" width="135" height="387" frameX="0" frameY="0" frameWidth="135" frameHeight="387" />
+</TextureAtlas>

@@ -1,0 +1,31 @@
+{
+	"storyName": "haha im not sus",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "tv",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"thonk",
+			"monkey",
+			[
+				255,
+				113,
+				213
+			]
+		]
+	],
+	"weekCharacters": [
+		"reset",
+		"",
+		""
+	],
+	"weekName": "Custom Week"
+}

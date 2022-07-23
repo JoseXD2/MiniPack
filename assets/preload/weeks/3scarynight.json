@@ -1,0 +1,31 @@
+{
+	"storyName": "mark memory",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "tv",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"scary-night",
+			"intruder",
+			[
+				80,
+				80,
+				80
+			]
+		]
+	],
+	"weekCharacters": [
+		"reset",
+		"",
+		""
+	],
+	"weekName": "Custom Week"
+}

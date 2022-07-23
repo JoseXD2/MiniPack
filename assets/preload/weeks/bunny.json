@@ -1,0 +1,32 @@
+{
+	"storyName": "Bunnykill",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "bunny",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Juuso",
+			"snowball",
+			[
+				255,
+				0,
+				40
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Bunnyweek"
+}

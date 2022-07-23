@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="">
+<SubTexture name="Dark Sonic BRUH0000" x="1034" y="0" width="446" height="560" frameX="0" frameY="-4" frameWidth="446" frameHeight="568"/>
+<SubTexture name="Dark Sonic BRUH0001" x="1480" y="0" width="438" height="568" frameX="-4" frameY="0" frameWidth="446" frameHeight="568"/>
+<SubTexture name="Dark Sonic BRUH0002" x="1034" y="0" width="446" height="560" frameX="0" frameY="-4" frameWidth="446" frameHeight="568"/>
+<SubTexture name="Dark Sonic DOWN0000" x="0" y="0" width="527" height="587" frameX="0" frameY="-39" frameWidth="527" frameHeight="636"/>
+<SubTexture name="Dark Sonic DOWN0001" x="527" y="5" width="507" height="607" frameX="-10" frameY="-29" frameWidth="527" frameHeight="636"/>
+<SubTexture name="Dark Sonic IDLE0000" x="640" y="1098" width="464" height="562" frameX="0" frameY="-25" frameWidth="465" frameHeight="600"/>
+<SubTexture name="Dark Sonic IDLE0001" x="1982" y="1098" width="440" height="586" frameX="-12" frameY="-13" frameWidth="465" frameHeight="600"/>
+<SubTexture name="Dark Sonic IDLE0002" x="0" y="1684" width="465" height="563" frameX="0" frameY="-23" frameWidth="465" frameHeight="600"/>
+<SubTexture name="Dark Sonic IDLE0003" x="465" y="1684" width="441" height="587" frameX="-12" frameY="-11" frameWidth="465" frameHeight="600"/>
+<SubTexture name="Dark Sonic IDLE0004" x="1533" y="1684" width="456" height="571" frameX="-4" frameY="-16" frameWidth="465" frameHeight="600"/>
+<SubTexture name="Dark Sonic IDLE0005" x="1989" y="1684" width="436" height="591" frameX="-14" frameY="-6" frameWidth="465" frameHeight="600"/>
+<SubTexture name="Dark Sonic IDLE0006" x="2344" y="0" width="449" height="579" frameX="-9" frameY="-11" frameWidth="465" frameHeight="600"/>
+<SubTexture name="Dark Sonic IDLE0007" x="2422" y="579" width="429" height="599" frameX="-19" frameY="-1" frameWidth="465" frameHeight="600"/>
+<SubTexture name="Dark Sonic IDLE0008" x="2425" y="1178" width="449" height="580" frameX="-9" frameY="-10" frameWidth="465" frameHeight="600"/>
+<SubTexture name="Dark Sonic IDLE0009" x="1104" y="1098" width="429" height="600" frameX="-19" frameY="0" frameWidth="465" frameHeight="600"/>
+<SubTexture name="Dark Sonic LEFT0000" x="1918" y="0" width="426" height="539" frameX="0" frameY="-10" frameWidth="467" frameHeight="566"/>
+<SubTexture name="Dark Sonic LEFT0001" x="1918" y="539" width="406" height="559" frameX="-10" frameY="0" frameWidth="467" frameHeight="566"/>
+<SubTexture name="Dark Sonic RIGHT0000" x="906" y="1758" width="453" height="569" frameX="-30" frameY="-20" frameWidth="483" frameHeight="645"/>
+<SubTexture name="Dark Sonic RIGHT0001" x="2425" y="1758" width="433" height="588" frameX="-40" frameY="-11" frameWidth="483" frameHeight="645"/>
+<SubTexture name="Dark Sonic UP0000" x="591" y="2346" width="302" height="651" frameX="0" frameY="-10" frameWidth="319" frameHeight="697"/>
+<SubTexture name="Dark Sonic UP0001" x="893" y="2346" width="282" height="671" frameX="-10" frameY="0" frameWidth="319" frameHeight="697"/>
+<SubTexture name="Sonic is MAD0000" x="0" y="2346" width="298" height="538" frameX="0" frameY="-8" frameWidth="306" frameHeight="546"/>
+<SubTexture name="Sonic is MAD0001" x="0" y="2346" width="298" height="538" frameX="0" frameY="-8" frameWidth="306" frameHeight="546"/>
+<SubTexture name="Sonic is MAD0002" x="298" y="2346" width="293" height="546" frameX="-7" frameY="0" frameWidth="306" frameHeight="546"/>
+<SubTexture name="Sonic is MAD0003" x="298" y="2346" width="293" height="546" frameX="-7" frameY="0" frameWidth="306" frameHeight="546"/>
+<SubTexture name="Sonic regretthat0000" x="0" y="1098" width="323" height="536" frameX="0" frameY="-32" frameWidth="324" frameHeight="569"/>
+<SubTexture name="Sonic regretthat0001" x="0" y="1098" width="323" height="536" frameX="0" frameY="-32" frameWidth="324" frameHeight="569"/>
+<SubTexture name="Sonic regretthat0002" x="323" y="1098" width="317" height="539" frameX="-7" frameY="-29" frameWidth="324" frameHeight="569"/>
+<SubTexture name="Sonic regretthat0003" x="323" y="1098" width="317" height="539" frameX="-7" frameY="-29" frameWidth="324" frameHeight="569"/>
+</TextureAtlas>

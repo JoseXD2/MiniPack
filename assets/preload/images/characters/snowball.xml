@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="snowball.png">
+<SubTexture name="SNOWBALL DOWN0000" x="1227" y="0" width="316" height="513" frameX="-81" frameY="-35" frameWidth="455" frameHeight="565" />
+<SubTexture name="SNOWBALL DOWN0001" x="635" y="588" width="315" height="529" frameX="-80" frameY="-19" frameWidth="455" frameHeight="565" />
+<SubTexture name="SNOWBALL DOWN0002" x="0" y="588" width="317" height="543" frameX="-78" frameY="-5" frameWidth="455" frameHeight="565" />
+<SubTexture name="SNOWBALL DOWN0003" x="317" y="588" width="318" height="543" frameX="-76" frameY="-5" frameWidth="455" frameHeight="565" />
+<SubTexture name="SNOWBALL IDLE0000" x="1959" y="0" width="436" height="423" frameX="-27" frameY="-29" frameWidth="492" frameHeight="473" />
+<SubTexture name="SNOWBALL IDLE0001" x="835" y="1131" width="418" height="428" frameX="-38" frameY="-22" frameWidth="492" frameHeight="473" />
+<SubTexture name="SNOWBALL IDLE0002" x="1253" y="1131" width="414" height="424" frameX="-39" frameY="-19" frameWidth="492" frameHeight="473" />
+<SubTexture name="SNOWBALL IDLE0003" x="1543" y="435" width="416" height="430" frameX="-39" frameY="-13" frameWidth="492" frameHeight="473" />
+<SubTexture name="SNOWBALL IDLE0004" x="1543" y="0" width="416" height="435" frameX="-39" frameY="-8" frameWidth="492" frameHeight="473" />
+<SubTexture name="SNOWBALL IDLE0005" x="0" y="1131" width="417" height="432" frameX="-39" frameY="-11" frameWidth="492" frameHeight="473" />
+<SubTexture name="SNOWBALL IDLE0006" x="417" y="1131" width="418" height="429" frameX="-37" frameY="-14" frameWidth="492" frameHeight="473" />
+<SubTexture name="SNOWBALL LEFT0000" x="917" y="0" width="310" height="571" frameX="-15" frameY="-31" frameWidth="384" frameHeight="641" />
+<SubTexture name="SNOWBALL LEFT0001" x="610" y="0" width="307" height="580" frameX="-29" frameY="-22" frameWidth="384" frameHeight="641" />
+<SubTexture name="SNOWBALL LEFT0002" x="305" y="0" width="305" height="587" frameX="-47" frameY="-15" frameWidth="384" frameHeight="641" />
+<SubTexture name="SNOWBALL LEFT0003" x="0" y="0" width="305" height="588" frameX="-51" frameY="-14" frameWidth="384" frameHeight="641" />
+<SubTexture name="SNOWBALL RIGHT0000" x="1959" y="423" width="400" height="368" frameX="-63" frameY="-75" frameWidth="493" frameHeight="473" />
+<SubTexture name="SNOWBALL RIGHT0001" x="1959" y="791" width="403" height="366" frameX="-57" frameY="-77" frameWidth="493" frameHeight="473" />
+<SubTexture name="SNOWBALL RIGHT0002" x="1959" y="1157" width="405" height="362" frameX="-51" frameY="-81" frameWidth="493" frameHeight="473" />
+<SubTexture name="SNOWBALL RIGHT0003" x="0" y="1978" width="405" height="361" frameX="-49" frameY="-82" frameWidth="493" frameHeight="473" />
+<SubTexture name="SNOWBALL UP0000" x="0" y="1563" width="536" height="415" frameX="-21" frameY="-28" frameWidth="633" frameHeight="473" />
+<SubTexture name="SNOWBALL UP0001" x="536" y="1563" width="545" height="407" frameX="-15" frameY="-36" frameWidth="633" frameHeight="473" />
+<SubTexture name="SNOWBALL UP0002" x="1081" y="1563" width="553" height="398" frameX="-10" frameY="-44" frameWidth="633" frameHeight="473" />
+<SubTexture name="SNOWBALL UP0003" x="1634" y="1563" width="556" height="392" frameX="-7" frameY="-50" frameWidth="633" frameHeight="473" />
+</TextureAtlas>

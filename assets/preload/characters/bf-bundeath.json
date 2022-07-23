@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-240,
+				-70
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF BUNNY DEATH enter0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-240,
+				-71
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF BUNNY DEATH loop0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "BF BUNNY DEATH0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf death",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "cheer",
+			"fps": 24,
+			"name": "dance right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-19
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dance right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dance right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "dance right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dance right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dance right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-21
+			],
+			"anim": "sad",
+			"fps": 24,
+			"name": "dance right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-17
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "dance right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "hairFall",
+			"fps": 24,
+			"name": "dance right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				45,
+				-8
+			],
+			"anim": "hairBlow",
+			"fps": 24,
+			"name": "dance right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "dance right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/thing",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "woman",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		217,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

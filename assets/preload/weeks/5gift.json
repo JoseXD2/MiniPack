@@ -1,0 +1,31 @@
+{
+	"storyName": "mark i have gift for your",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "tv",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"gift",
+			"alternate",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"reset",
+		"",
+		""
+	],
+	"weekName": "Custom Week"
+}

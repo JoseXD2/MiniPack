@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="minion.png">
+<SubTexture name="minion0000" x="1133" y="1161" width="576" height="911" frameX="-22" frameY="-99" frameWidth="676" frameHeight="1028" />
+<SubTexture name="minion0001" x="562" y="1161" width="571" height="917" frameX="-29" frameY="-89" frameWidth="676" frameHeight="1028" />
+<SubTexture name="minion0002" x="0" y="1161" width="562" height="930" frameX="-39" frameY="-75" frameWidth="676" frameHeight="1028" />
+<SubTexture name="minion0003" x="1573" y="0" width="558" height="934" frameX="-43" frameY="-71" frameWidth="676" frameHeight="1028" />
+<SubTexture name="minion death0000" x="2131" y="0" width="614" height="804" frameX="-119" frameY="-482" frameWidth="1139" frameHeight="1627" />
+<SubTexture name="minion death0001" x="926" y="0" width="647" height="948" frameX="-124" frameY="-325" frameWidth="1139" frameHeight="1627" />
+<SubTexture name="minion death0002" x="0" y="0" width="926" height="1161" frameX="-29" frameY="0" frameWidth="1139" frameHeight="1627" />
+<SubTexture name="minion death0003" x="2131" y="804" width="604" height="798" frameX="-129" frameY="-467" frameWidth="1139" frameHeight="1627" />
+<SubTexture name="minion death0004" x="2745" y="790" width="631" height="789" frameX="-135" frameY="-478" frameWidth="1139" frameHeight="1627" />
+<SubTexture name="minion death0005" x="0" y="2091" width="657" height="775" frameX="-144" frameY="-495" frameWidth="1139" frameHeight="1627" />
+<SubTexture name="minion death0006" x="657" y="2091" width="727" height="724" frameX="-29" frameY="-455" frameWidth="1139" frameHeight="1627" />
+<SubTexture name="minion death0007" x="1909" y="2091" width="792" height="687" frameX="-29" frameY="-455" frameWidth="1139" frameHeight="1627" />
+<SubTexture name="minion death0008" x="2745" y="1579" width="348" height="324" frameX="-236" frameY="-969" frameWidth="1139" frameHeight="1627" />
+<SubTexture name="minion entrance0000" x="2745" y="0" width="651" height="790" frameX="-211" frameY="-442" frameWidth="912" frameHeight="1288" />
+<SubTexture name="minion entrance0001" x="2701" y="2091" width="581" height="534" frameX="-180" frameY="-367" frameWidth="912" frameHeight="1288" />
+<SubTexture name="minion entrance0002" x="1384" y="2091" width="525" height="723" frameX="-126" frameY="-95" frameWidth="912" frameHeight="1288" />
+</TextureAtlas>

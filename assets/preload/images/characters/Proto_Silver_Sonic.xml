@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="">
+<SubTexture name="Proto DOWN0000" x="0" y="0" width="284" height="331" frameX="-1" frameY="-30" frameWidth="286" frameHeight="361"/>
+<SubTexture name="Proto DOWN0001" x="0" y="0" width="284" height="331" frameX="-1" frameY="-30" frameWidth="286" frameHeight="361"/>
+<SubTexture name="Proto DOWN0002" x="284" y="0" width="286" height="361"/>
+<SubTexture name="Proto DOWN0003" x="284" y="0" width="286" height="361"/>
+<SubTexture name="Proto IDLE0000" x="3556" y="1060" width="314" height="385" frameX="-15" frameY="-12" frameWidth="338" frameHeight="397"/>
+<SubTexture name="Proto IDLE0001" x="3556" y="1060" width="314" height="385" frameX="-15" frameY="-12" frameWidth="338" frameHeight="397"/>
+<SubTexture name="Proto IDLE0002" x="3870" y="1060" width="320" height="391" frameX="-17" frameY="-6" frameWidth="338" frameHeight="397"/>
+<SubTexture name="Proto IDLE0003" x="3870" y="1060" width="320" height="391" frameX="-17" frameY="-6" frameWidth="338" frameHeight="397"/>
+<SubTexture name="Proto IDLE0004" x="2736" y="1451" width="338" height="397"/>
+<SubTexture name="Proto IDLE0005" x="2736" y="1451" width="338" height="397"/>
+<SubTexture name="Proto IDLE0006" x="3074" y="1451" width="335" height="396" frameX="-2" frameY="-1" frameWidth="338" frameHeight="397"/>
+<SubTexture name="Proto IDLE0007" x="3074" y="1451" width="335" height="396" frameX="-2" frameY="-1" frameWidth="338" frameHeight="397"/>
+<SubTexture name="Proto IDLE008" x="3409" y="1451" width="337" height="395" frameX="0" frameY="-2" frameWidth="338" frameHeight="397"/>
+<SubTexture name="Proto IDLE009" x="3409" y="1451" width="337" height="395" frameX="0" frameY="-2" frameWidth="338" frameHeight="397"/>
+<SubTexture name="Proto LEFT0000" x="2736" y="1060" width="415" height="314" frameX="0" frameY="-17" frameWidth="422" frameHeight="331"/>
+<SubTexture name="Proto LEFT0001" x="2736" y="1060" width="415" height="314" frameX="0" frameY="-17" frameWidth="422" frameHeight="331"/>
+<SubTexture name="Proto LEFT0002" x="3151" y="1060" width="405" height="331" frameX="-17" frameY="0" frameWidth="422" frameHeight="331"/>
+<SubTexture name="Proto LEFT0003" x="3151" y="1060" width="405" height="331" frameX="-17" frameY="0" frameWidth="422" frameHeight="331"/>
+<SubTexture name="Proto RIGHT0000" x="3746" y="1451" width="442" height="368"/>
+<SubTexture name="Proto RIGHT0001" x="3746" y="1451" width="442" height="368"/>
+<SubTexture name="Proto RIGHT0002" x="0" y="1819" width="415" height="368" frameX="0" frameY="0" frameWidth="442" frameHeight="368"/>
+<SubTexture name="Proto RIGHT0003" x="0" y="1819" width="415" height="368" frameX="0" frameY="0" frameWidth="442" frameHeight="368"/>
+<SubTexture name="Proto UP0000" x="415" y="1819" width="326" height="400" frameX="0" frameY="0" frameWidth="336" frameHeight="400"/>
+<SubTexture name="Proto UP0001" x="415" y="1819" width="326" height="400" frameX="0" frameY="0" frameWidth="336" frameHeight="400"/>
+<SubTexture name="Proto UP0002" x="741" y="1819" width="334" height="387" frameX="-2" frameY="-12" frameWidth="336" frameHeight="400"/>
+<SubTexture name="Proto UP0003" x="741" y="1819" width="334" height="387" frameX="-2" frameY="-12" frameWidth="336" frameHeight="400"/>
+<SubTexture name="big boomboom0000" x="570" y="0" width="336" height="395" frameX="-716" frameY="-773" frameWidth="1838" frameHeight="1310"/>
+<SubTexture name="big boomboom0001" x="906" y="0" width="343" height="414" frameX="-709" frameY="-760" frameWidth="1838" frameHeight="1310"/>
+<SubTexture name="big boomboom0002" x="1249" y="0" width="1137" height="676" frameX="-210" frameY="-602" frameWidth="1838" frameHeight="1310"/>
+<SubTexture name="big boomboom0003" x="0" y="676" width="1204" height="965" frameX="-210" frameY="-337" frameWidth="1838" frameHeight="1310"/>
+<SubTexture name="big boomboom0004" x="2386" y="0" width="1641" height="1060" frameX="-21" frameY="-242" frameWidth="1838" frameHeight="1310"/>
+<SubTexture name="big boomboom0005" x="1204" y="1060" width="1532" height="1060" frameX="-130" frameY="-242" frameWidth="1838" frameHeight="1310"/>
+</TextureAtlas>

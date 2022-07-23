@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dark_bf.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF NOTE DOWN0000" x="0" y="0" width="396" height="410"/>
+	<SubTexture name="BF NOTE DOWN0001" x="396" y="0" width="396" height="410"/>
+	<SubTexture name="BF NOTE DOWN0002" x="792" y="0" width="396" height="410"/>
+	<SubTexture name="BF NOTE DOWN MISS0000" x="1188" y="0" width="397" height="396"/>
+	<SubTexture name="BF NOTE DOWN MISS0001" x="1585" y="0" width="397" height="396"/>
+	<SubTexture name="BF NOTE LEFT0000" x="1347" y="863" width="418" height="466"/>
+	<SubTexture name="BF NOTE LEFT0001" x="1765" y="863" width="418" height="466"/>
+	<SubTexture name="BF NOTE LEFT0002" x="1347" y="1329" width="418" height="466"/>
+	<SubTexture name="BF NOTE LEFT MISS0000" x="1765" y="1329" width="412" height="455"/>
+	<SubTexture name="BF NOTE LEFT MISS0001" x="2086" y="0" width="412" height="455"/>
+	<SubTexture name="BF NOTE RIGHT0000" x="2183" y="455" width="430" height="456"/>
+	<SubTexture name="BF NOTE RIGHT0001" x="2183" y="911" width="430" height="456"/>
+	<SubTexture name="BF NOTE RIGHT0002" x="0" y="1367" width="430" height="456"/>
+	<SubTexture name="BF NOTE RIGHT MISS0000" x="430" y="1367" width="427" height="441"/>
+	<SubTexture name="BF NOTE RIGHT MISS0001" x="857" y="1367" width="427" height="441"/>
+	<SubTexture name="BF NOTE UP0000" x="1765" y="1784" width="455" height="505"/>
+	<SubTexture name="BF NOTE UP0001" x="2613" y="0" width="455" height="505"/>
+	<SubTexture name="BF NOTE UP0002" x="2613" y="505" width="455" height="505"/>
+	<SubTexture name="BF NOTE UP MISS0000" x="2613" y="1010" width="450" height="497"/>
+	<SubTexture name="BF NOTE UP MISS0001" x="2220" y="1507" width="450" height="497"/>
+	<SubTexture name="BF idle dance0000" x="1188" y="396" width="449" height="467"/>
+	<SubTexture name="BF idle dance0001" x="1637" y="396" width="449" height="467"/>
+	<SubTexture name="BF idle dance0002" x="0" y="863" width="449" height="467"/>
+	<SubTexture name="BF idle dance0003" x="449" y="863" width="449" height="467"/>
+	<SubTexture name="BF idle dance0004" x="898" y="863" width="449" height="467"/>
+</TextureAtlas>
